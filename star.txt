@@ -5,3 +5,6 @@ Bintang dua
 Bintang satu
 Bintang enam
 Bintang tujuh
+Bintang delapan
+Bintang sembilan
+Bintang sepuluh
