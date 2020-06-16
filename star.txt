@@ -1,3 +1,5 @@
 Bintang lima
 Bintang empat
 Bintang tiga
+Bintang dua
+Bintang satu
